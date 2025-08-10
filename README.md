@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/ThisBeMyName/workfront-api/ci.yml)](https://github.com/ThisBeMyName/workfront-api/actions)
+
 
 ---
 
